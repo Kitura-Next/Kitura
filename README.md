@@ -55,8 +55,6 @@ All improvements to Kitura are very welcome! Here's how to get started with deve
 
   `$ swift test`
 
-You can find more info on contributing to Kitura in our [contributing guidelines](https://github.com/Kitura-Next/Kitura/blob/master/.github/CONTRIBUTING.md).
-
 ## Community
 
 We love to talk server-side Swift, and Kitura. Join our [Slack](http://swift-at-ibm-slack.mybluemix.net/) to meet the team!

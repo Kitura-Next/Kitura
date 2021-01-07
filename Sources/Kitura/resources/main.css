@@ -46,11 +46,15 @@ h1 {
 }
 
 .bottom-section {
-  margin-top: 10vh;
+  padding: 0;
+  margin-top: 8vh;
+  margin-left: 10%;
+  margin-right: 10%;
   background: linear-gradient(#00bbe6, #0086a5);
   border-radius: 15px;
   padding: 1% 0.2%;
   height: 30vh;
+  width: 70%;
 }
 
 /*
@@ -110,7 +114,7 @@ h1 {
 */
 .project-card {
   background-color: white;
-  width: 23%;
+  width: 28.5%;
   height: 80%;
   border-radius: 15px;
   padding: 1em;
@@ -120,11 +124,13 @@ h1 {
 }
 
 .project-card h3 {
-  font-size: 1.4vw;
+  font-size: 2.8vw;
 }
 
 .project-card p {
-  font-size: 1.1vw;
+  margin-top: 88px;
+  vertical-align: middle;
+  font-size: 3.2vw;
 }
 
 .github-image {
